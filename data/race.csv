@@ -1,0 +1,1179 @@
+"","drivernumber","teamname","position","gridposition","status","race","year"
+"1",77,"Mercedes",1,2,"Finished",1,2019
+"2",44,"Mercedes",2,1,"Finished",1,2019
+"3",33,"Red Bull Racing",3,4,"Finished",1,2019
+"4",5,"Ferrari",4,3,"Finished",1,2019
+"5",16,"Ferrari",5,5,"Finished",1,2019
+"6",20,"Haas F1 Team",6,7,"Finished",1,2019
+"7",27,"Renault",7,11,"+1 Lap",1,2019
+"8",7,"Alfa Romeo Racing",8,9,"+1 Lap",1,2019
+"9",18,"Racing Point",9,16,"+1 Lap",1,2019
+"10",26,"Toro Rosso",10,15,"+1 Lap",1,2019
+"11",10,"Red Bull Racing",11,17,"+1 Lap",1,2019
+"12",4,"McLaren",12,8,"+1 Lap",1,2019
+"13",11,"Racing Point",13,10,"+1 Lap",1,2019
+"14",23,"Toro Rosso",14,13,"+1 Lap",1,2019
+"15",99,"Alfa Romeo Racing",15,14,"+1 Lap",1,2019
+"16",63,"Williams",16,19,"+2 Laps",1,2019
+"17",88,"Williams",17,20,"+3 Laps",1,2019
+"18",8,"Haas F1 Team",18,6,"Wheel",1,2019
+"19",3,"Renault",19,12,"Damage",1,2019
+"20",55,"McLaren",20,18,"Engine",1,2019
+"21",44,"Mercedes",1,3,"Finished",2,2019
+"22",77,"Mercedes",2,4,"Finished",2,2019
+"23",16,"Ferrari",3,1,"Finished",2,2019
+"24",33,"Red Bull Racing",4,5,"Finished",2,2019
+"25",5,"Ferrari",5,2,"Finished",2,2019
+"26",4,"McLaren",6,9,"Finished",2,2019
+"27",7,"Alfa Romeo Racing",7,8,"Finished",2,2019
+"28",10,"Red Bull Racing",8,13,"Finished",2,2019
+"29",23,"Toro Rosso",9,12,"Finished",2,2019
+"30",11,"Racing Point",10,14,"Finished",2,2019
+"31",99,"Alfa Romeo Racing",11,16,"Finished",2,2019
+"32",26,"Toro Rosso",12,15,"+1 Lap",2,2019
+"33",20,"Haas F1 Team",13,6,"+1 Lap",2,2019
+"34",18,"Racing Point",14,18,"+1 Lap",2,2019
+"35",63,"Williams",15,19,"+1 Lap",2,2019
+"36",88,"Williams",16,20,"+2 Laps",2,2019
+"37",27,"Renault",17,17,"Engine",2,2019
+"38",3,"Renault",18,10,"Out of fuel",2,2019
+"39",55,"McLaren",19,7,"Collision damage",2,2019
+"40",8,"Haas F1 Team",20,11,"Retired",2,2019
+"41",44,"Mercedes",1,2,"Finished",3,2019
+"42",77,"Mercedes",2,1,"Finished",3,2019
+"43",5,"Ferrari",3,3,"Finished",3,2019
+"44",33,"Red Bull Racing",4,5,"Finished",3,2019
+"45",16,"Ferrari",5,4,"Finished",3,2019
+"46",10,"Red Bull Racing",6,6,"Finished",3,2019
+"47",3,"Renault",7,7,"+1 Lap",3,2019
+"48",11,"Racing Point",8,12,"+1 Lap",3,2019
+"49",7,"Alfa Romeo Racing",9,13,"+1 Lap",3,2019
+"50",23,"Toro Rosso",10,0,"+1 Lap",3,2019
+"51",8,"Haas F1 Team",11,10,"+1 Lap",3,2019
+"52",18,"Racing Point",12,16,"+1 Lap",3,2019
+"53",20,"Haas F1 Team",13,9,"+1 Lap",3,2019
+"54",55,"McLaren",14,14,"+1 Lap",3,2019
+"55",99,"Alfa Romeo Racing",15,19,"+1 Lap",3,2019
+"56",63,"Williams",16,17,"+2 Laps",3,2019
+"57",88,"Williams",17,18,"+2 Laps",3,2019
+"58",4,"McLaren",18,15,"Collision",3,2019
+"59",26,"Toro Rosso",19,11,"Collision",3,2019
+"60",27,"Renault",20,8,"Power Unit",3,2019
+"61",77,"Mercedes",1,1,"Finished",4,2019
+"62",44,"Mercedes",2,2,"Finished",4,2019
+"63",5,"Ferrari",3,3,"Finished",4,2019
+"64",33,"Red Bull Racing",4,4,"Finished",4,2019
+"65",16,"Ferrari",5,8,"Finished",4,2019
+"66",11,"Racing Point",6,5,"Finished",4,2019
+"67",55,"McLaren",7,9,"Finished",4,2019
+"68",4,"McLaren",8,7,"Finished",4,2019
+"69",18,"Racing Point",9,13,"Finished",4,2019
+"70",7,"Alfa Romeo Racing",10,0,"+1 Lap",4,2019
+"71",23,"Toro Rosso",11,11,"+1 Lap",4,2019
+"72",99,"Alfa Romeo Racing",12,17,"+1 Lap",4,2019
+"73",20,"Haas F1 Team",13,12,"+1 Lap",4,2019
+"74",27,"Renault",14,15,"+1 Lap",4,2019
+"75",63,"Williams",15,16,"+2 Laps",4,2019
+"76",88,"Williams",16,0,"+2 Laps",4,2019
+"77",10,"Red Bull Racing",17,0,"Transmission",4,2019
+"78",8,"Haas F1 Team",18,14,"Brakes",4,2019
+"79",26,"Toro Rosso",19,6,"Collision",4,2019
+"80",3,"Renault",20,10,"Collision",4,2019
+"81",44,"Mercedes",1,2,"Finished",5,2019
+"82",77,"Mercedes",2,1,"Finished",5,2019
+"83",33,"Red Bull Racing",3,4,"Finished",5,2019
+"84",5,"Ferrari",4,3,"Finished",5,2019
+"85",16,"Ferrari",5,5,"Finished",5,2019
+"86",10,"Red Bull Racing",6,6,"Finished",5,2019
+"87",20,"Haas F1 Team",7,8,"Finished",5,2019
+"88",55,"McLaren",8,12,"Finished",5,2019
+"89",26,"Toro Rosso",9,9,"Finished",5,2019
+"90",8,"Haas F1 Team",10,7,"Finished",5,2019
+"91",23,"Toro Rosso",11,11,"Finished",5,2019
+"92",3,"Renault",12,13,"Finished",5,2019
+"93",27,"Renault",13,0,"Finished",5,2019
+"94",7,"Alfa Romeo Racing",14,14,"Finished",5,2019
+"95",11,"Racing Point",15,15,"Finished",5,2019
+"96",99,"Alfa Romeo Racing",16,18,"Finished",5,2019
+"97",63,"Williams",17,19,"+1 Lap",5,2019
+"98",88,"Williams",18,17,"+1 Lap",5,2019
+"99",18,"Racing Point",19,16,"Collision",5,2019
+"100",4,"McLaren",20,10,"Collision",5,2019
+"101",44,"Mercedes",1,1,"Finished",6,2019
+"102",5,"Ferrari",2,4,"Finished",6,2019
+"103",77,"Mercedes",3,2,"Finished",6,2019
+"104",33,"Red Bull Racing",4,3,"Finished",6,2019
+"105",10,"Red Bull Racing",5,8,"Finished",6,2019
+"106",55,"McLaren",6,9,"Finished",6,2019
+"107",26,"Toro Rosso",7,7,"Finished",6,2019
+"108",23,"Toro Rosso",8,10,"Finished",6,2019
+"109",3,"Renault",9,6,"Finished",6,2019
+"110",8,"Haas F1 Team",10,13,"Finished",6,2019
+"111",4,"McLaren",11,12,"Finished",6,2019
+"112",11,"Racing Point",12,16,"+1 Lap",6,2019
+"113",27,"Renault",13,11,"+1 Lap",6,2019
+"114",20,"Haas F1 Team",14,5,"+1 Lap",6,2019
+"115",63,"Williams",15,19,"+1 Lap",6,2019
+"116",18,"Racing Point",16,17,"+1 Lap",6,2019
+"117",7,"Alfa Romeo Racing",17,14,"+1 Lap",6,2019
+"118",88,"Williams",18,20,"+1 Lap",6,2019
+"119",99,"Alfa Romeo Racing",19,18,"+2 Laps",6,2019
+"120",16,"Ferrari",20,15,"Collision",6,2019
+"121",44,"Mercedes",1,2,"Finished",7,2019
+"122",5,"Ferrari",2,1,"Finished",7,2019
+"123",16,"Ferrari",3,3,"Finished",7,2019
+"124",77,"Mercedes",4,6,"Finished",7,2019
+"125",33,"Red Bull Racing",5,9,"Finished",7,2019
+"126",3,"Renault",6,4,"+1 Lap",7,2019
+"127",27,"Renault",7,7,"+1 Lap",7,2019
+"128",10,"Red Bull Racing",8,5,"+1 Lap",7,2019
+"129",18,"Racing Point",9,17,"+1 Lap",7,2019
+"130",26,"Toro Rosso",10,10,"+1 Lap",7,2019
+"131",55,"McLaren",11,11,"+1 Lap",7,2019
+"132",11,"Racing Point",12,15,"+1 Lap",7,2019
+"133",99,"Alfa Romeo Racing",13,12,"+1 Lap",7,2019
+"134",8,"Haas F1 Team",14,14,"+1 Lap",7,2019
+"135",7,"Alfa Romeo Racing",15,16,"+1 Lap",7,2019
+"136",63,"Williams",16,18,"+2 Laps",7,2019
+"137",20,"Haas F1 Team",17,0,"+2 Laps",7,2019
+"138",88,"Williams",18,19,"+3 Laps",7,2019
+"139",23,"Toro Rosso",19,13,"Collision damage",7,2019
+"140",4,"McLaren",20,8,"Suspension",7,2019
+"141",44,"Mercedes",1,1,"Finished",8,2019
+"142",77,"Mercedes",2,2,"Finished",8,2019
+"143",16,"Ferrari",3,3,"Finished",8,2019
+"144",33,"Red Bull Racing",4,4,"Finished",8,2019
+"145",5,"Ferrari",5,7,"Finished",8,2019
+"146",55,"McLaren",6,6,"Finished",8,2019
+"147",7,"Alfa Romeo Racing",7,12,"+1 Lap",8,2019
+"148",27,"Renault",8,13,"+1 Lap",8,2019
+"149",4,"McLaren",9,5,"+1 Lap",8,2019
+"150",10,"Red Bull Racing",10,9,"+1 Lap",8,2019
+"151",3,"Renault",11,8,"+1 Lap",8,2019
+"152",11,"Racing Point",12,14,"+1 Lap",8,2019
+"153",18,"Racing Point",13,17,"+1 Lap",8,2019
+"154",26,"Toro Rosso",14,19,"+1 Lap",8,2019
+"155",23,"Toro Rosso",15,11,"+1 Lap",8,2019
+"156",99,"Alfa Romeo Racing",16,10,"+1 Lap",8,2019
+"157",20,"Haas F1 Team",17,15,"+1 Lap",8,2019
+"158",88,"Williams",18,18,"+2 Laps",8,2019
+"159",63,"Williams",19,20,"+2 Laps",8,2019
+"160",8,"Haas F1 Team",20,16,"Retired",8,2019
+"161",33,"Red Bull Racing",1,2,"Finished",9,2019
+"162",16,"Ferrari",2,1,"Finished",9,2019
+"163",77,"Mercedes",3,3,"Finished",9,2019
+"164",5,"Ferrari",4,9,"Finished",9,2019
+"165",44,"Mercedes",5,4,"Finished",9,2019
+"166",4,"McLaren",6,5,"+1 Lap",9,2019
+"167",10,"Red Bull Racing",7,8,"+1 Lap",9,2019
+"168",55,"McLaren",8,19,"+1 Lap",9,2019
+"169",7,"Alfa Romeo Racing",9,6,"+1 Lap",9,2019
+"170",99,"Alfa Romeo Racing",10,7,"+1 Lap",9,2019
+"171",11,"Racing Point",11,13,"+1 Lap",9,2019
+"172",3,"Renault",12,12,"+1 Lap",9,2019
+"173",27,"Renault",13,15,"+1 Lap",9,2019
+"174",18,"Racing Point",14,14,"+1 Lap",9,2019
+"175",23,"Toro Rosso",15,18,"+1 Lap",9,2019
+"176",8,"Haas F1 Team",16,11,"+1 Lap",9,2019
+"177",26,"Toro Rosso",17,16,"+1 Lap",9,2019
+"178",63,"Williams",18,0,"+2 Laps",9,2019
+"179",20,"Haas F1 Team",19,10,"+2 Laps",9,2019
+"180",88,"Williams",20,17,"+3 Laps",9,2019
+"181",44,"Mercedes",1,2,"Finished",10,2019
+"182",77,"Mercedes",2,1,"Finished",10,2019
+"183",16,"Ferrari",3,3,"Finished",10,2019
+"184",10,"Red Bull Racing",4,5,"Finished",10,2019
+"185",33,"Red Bull Racing",5,4,"Finished",10,2019
+"186",55,"McLaren",6,13,"Finished",10,2019
+"187",3,"Renault",7,7,"Finished",10,2019
+"188",7,"Alfa Romeo Racing",8,12,"Finished",10,2019
+"189",26,"Toro Rosso",9,17,"Finished",10,2019
+"190",27,"Renault",10,10,"Finished",10,2019
+"191",4,"McLaren",11,8,"Finished",10,2019
+"192",23,"Toro Rosso",12,9,"Finished",10,2019
+"193",18,"Racing Point",13,18,"Finished",10,2019
+"194",63,"Williams",14,19,"+1 Lap",10,2019
+"195",88,"Williams",15,20,"+1 Lap",10,2019
+"196",5,"Ferrari",16,6,"+1 Lap",10,2019
+"197",11,"Racing Point",17,15,"+1 Lap",10,2019
+"198",99,"Alfa Romeo Racing",18,11,"Spun off",10,2019
+"199",8,"Haas F1 Team",19,14,"Collision",10,2019
+"200",20,"Haas F1 Team",20,16,"Collision",10,2019
+"201",33,"Red Bull Racing",1,2,"Finished",11,2019
+"202",5,"Ferrari",2,20,"Finished",11,2019
+"203",26,"Toro Rosso",3,14,"Finished",11,2019
+"204",18,"Racing Point",4,15,"Finished",11,2019
+"205",55,"McLaren",5,7,"Finished",11,2019
+"206",23,"Toro Rosso",6,16,"Finished",11,2019
+"207",8,"Haas F1 Team",7,6,"Finished",11,2019
+"208",20,"Haas F1 Team",8,12,"Finished",11,2019
+"209",44,"Mercedes",9,1,"Finished",11,2019
+"210",88,"Williams",10,18,"Finished",11,2019
+"211",63,"Williams",11,17,"Finished",11,2019
+"212",7,"Alfa Romeo Racing",12,5,"Finished",11,2019
+"213",99,"Alfa Romeo Racing",13,11,"Finished",11,2019
+"214",10,"Red Bull Racing",14,4,"Collision",11,2019
+"215",77,"Mercedes",15,3,"Accident",11,2019
+"216",27,"Renault",16,9,"Accident",11,2019
+"217",16,"Ferrari",17,10,"Accident",11,2019
+"218",4,"McLaren",18,19,"Power loss",11,2019
+"219",3,"Renault",19,13,"Exhaust",11,2019
+"220",11,"Racing Point",20,8,"Spun off",11,2019
+"221",44,"Mercedes",1,3,"Finished",12,2019
+"222",33,"Red Bull Racing",2,1,"Finished",12,2019
+"223",5,"Ferrari",3,5,"Finished",12,2019
+"224",16,"Ferrari",4,4,"Finished",12,2019
+"225",55,"McLaren",5,8,"+1 Lap",12,2019
+"226",10,"Red Bull Racing",6,6,"+1 Lap",12,2019
+"227",7,"Alfa Romeo Racing",7,10,"+1 Lap",12,2019
+"228",77,"Mercedes",8,2,"+1 Lap",12,2019
+"229",4,"McLaren",9,7,"+1 Lap",12,2019
+"230",23,"Toro Rosso",10,12,"+1 Lap",12,2019
+"231",11,"Racing Point",11,16,"+1 Lap",12,2019
+"232",27,"Renault",12,11,"+1 Lap",12,2019
+"233",20,"Haas F1 Team",13,14,"+1 Lap",12,2019
+"234",3,"Renault",14,20,"+1 Lap",12,2019
+"235",26,"Toro Rosso",15,13,"+2 Laps",12,2019
+"236",63,"Williams",16,15,"+2 Laps",12,2019
+"237",18,"Racing Point",17,18,"+2 Laps",12,2019
+"238",99,"Alfa Romeo Racing",18,17,"+2 Laps",12,2019
+"239",88,"Williams",19,19,"+3 Laps",12,2019
+"240",8,"Haas F1 Team",20,9,"Water pressure",12,2019
+"241",16,"Ferrari",1,1,"Finished",13,2019
+"242",44,"Mercedes",2,3,"Finished",13,2019
+"243",77,"Mercedes",3,4,"Finished",13,2019
+"244",5,"Ferrari",4,2,"Finished",13,2019
+"245",23,"Red Bull Racing",5,17,"Finished",13,2019
+"246",11,"Racing Point",6,7,"Finished",13,2019
+"247",26,"Toro Rosso",7,19,"Finished",13,2019
+"248",27,"Renault",8,12,"Finished",13,2019
+"249",10,"Toro Rosso",9,13,"Finished",13,2019
+"250",18,"Racing Point",10,16,"Finished",13,2019
+"251",4,"McLaren",11,11,"Engine",13,2019
+"252",20,"Haas F1 Team",12,8,"+1 Lap",13,2019
+"253",8,"Haas F1 Team",13,9,"+1 Lap",13,2019
+"254",3,"Renault",14,10,"+1 Lap",13,2019
+"255",63,"Williams",15,14,"+1 Lap",13,2019
+"256",7,"Alfa Romeo Racing",16,6,"+1 Lap",13,2019
+"257",88,"Williams",17,0,"+1 Lap",13,2019
+"258",99,"Alfa Romeo Racing",18,18,"Accident",13,2019
+"259",55,"McLaren",19,15,"Power loss",13,2019
+"260",33,"Red Bull Racing",20,5,"Accident",13,2019
+"261",16,"Ferrari",1,1,"Finished",14,2019
+"262",77,"Mercedes",2,3,"Finished",14,2019
+"263",44,"Mercedes",3,2,"Finished",14,2019
+"264",3,"Renault",4,5,"Finished",14,2019
+"265",27,"Renault",5,6,"Finished",14,2019
+"266",23,"Red Bull Racing",6,8,"Finished",14,2019
+"267",11,"Racing Point",7,18,"Finished",14,2019
+"268",33,"Red Bull Racing",8,19,"Finished",14,2019
+"269",99,"Alfa Romeo Racing",9,10,"+1 Lap",14,2019
+"270",4,"McLaren",10,16,"+1 Lap",14,2019
+"271",10,"Toro Rosso",11,17,"+1 Lap",14,2019
+"272",18,"Racing Point",12,9,"+1 Lap",14,2019
+"273",5,"Ferrari",13,4,"+1 Lap",14,2019
+"274",63,"Williams",14,14,"+1 Lap",14,2019
+"275",7,"Alfa Romeo Racing",15,0,"+1 Lap",14,2019
+"276",8,"Haas F1 Team",16,13,"+1 Lap",14,2019
+"277",88,"Williams",17,15,"+2 Laps",14,2019
+"278",20,"Haas F1 Team",18,11,"Hydraulics",14,2019
+"279",26,"Toro Rosso",19,12,"Engine",14,2019
+"280",55,"McLaren",20,7,"Wheel",14,2019
+"281",5,"Ferrari",1,3,"Finished",15,2019
+"282",16,"Ferrari",2,1,"Finished",15,2019
+"283",33,"Red Bull Racing",3,4,"Finished",15,2019
+"284",44,"Mercedes",4,2,"Finished",15,2019
+"285",77,"Mercedes",5,5,"Finished",15,2019
+"286",23,"Red Bull Racing",6,6,"Finished",15,2019
+"287",4,"McLaren",7,9,"Finished",15,2019
+"288",10,"Toro Rosso",8,11,"Finished",15,2019
+"289",27,"Renault",9,8,"Finished",15,2019
+"290",99,"Alfa Romeo Racing",10,10,"Finished",15,2019
+"291",8,"Haas F1 Team",11,17,"Finished",15,2019
+"292",55,"McLaren",12,7,"Finished",15,2019
+"293",18,"Racing Point",13,16,"Finished",15,2019
+"294",3,"Renault",14,20,"Finished",15,2019
+"295",26,"Toro Rosso",15,14,"Finished",15,2019
+"296",88,"Williams",16,19,"Finished",15,2019
+"297",20,"Haas F1 Team",17,13,"Finished",15,2019
+"298",7,"Alfa Romeo Racing",18,12,"Collision",15,2019
+"299",11,"Racing Point",19,15,"Engine",15,2019
+"300",63,"Williams",20,18,"Collision",15,2019
+"301",44,"Mercedes",1,2,"Finished",16,2019
+"302",77,"Mercedes",2,4,"Finished",16,2019
+"303",16,"Ferrari",3,1,"Finished",16,2019
+"304",33,"Red Bull Racing",4,9,"Finished",16,2019
+"305",23,"Red Bull Racing",5,0,"Finished",16,2019
+"306",55,"McLaren",6,5,"Finished",16,2019
+"307",11,"Racing Point",7,11,"Finished",16,2019
+"308",4,"McLaren",8,7,"Finished",16,2019
+"309",20,"Haas F1 Team",9,13,"Finished",16,2019
+"310",27,"Renault",10,6,"Finished",16,2019
+"311",18,"Racing Point",11,14,"Finished",16,2019
+"312",26,"Toro Rosso",12,19,"Finished",16,2019
+"313",7,"Alfa Romeo Racing",13,15,"Finished",16,2019
+"314",10,"Toro Rosso",14,16,"Finished",16,2019
+"315",99,"Alfa Romeo Racing",15,12,"Finished",16,2019
+"316",88,"Williams",16,18,"Brakes",16,2019
+"317",63,"Williams",17,17,"Brakes",16,2019
+"318",5,"Ferrari",18,3,"Power loss",16,2019
+"319",3,"Renault",19,10,"Collision",16,2019
+"320",8,"Haas F1 Team",20,8,"Collision",16,2019
+"321",77,"Mercedes",1,3,"Finished",17,2019
+"322",5,"Ferrari",2,1,"Finished",17,2019
+"323",44,"Mercedes",3,4,"Finished",17,2019
+"324",23,"Red Bull Racing",4,6,"Finished",17,2019
+"325",55,"McLaren",5,7,"Finished",17,2019
+"326",16,"Ferrari",6,2,"+1 Lap",17,2019
+"327",10,"Toro Rosso",7,9,"+1 Lap",17,2019
+"328",11,"Racing Point",8,17,"+1 Lap",17,2019
+"329",18,"Racing Point",9,12,"+1 Lap",17,2019
+"330",26,"Toro Rosso",10,14,"+1 Lap",17,2019
+"331",4,"McLaren",11,8,"+1 Lap",17,2019
+"332",7,"Alfa Romeo Racing",12,13,"+1 Lap",17,2019
+"333",8,"Haas F1 Team",13,10,"+1 Lap",17,2019
+"334",99,"Alfa Romeo Racing",14,11,"+1 Lap",17,2019
+"335",20,"Haas F1 Team",15,19,"+1 Lap",17,2019
+"336",63,"Williams",16,18,"+2 Laps",17,2019
+"337",88,"Williams",17,0,"+2 Laps",17,2019
+"338",33,"Red Bull Racing",18,5,"Brakes",17,2019
+"339",3,"Renault",19,16,"Disqualified",17,2019
+"340",27,"Renault",20,15,"Disqualified",17,2019
+"341",44,"Mercedes",1,3,"Finished",18,2019
+"342",5,"Ferrari",2,2,"Finished",18,2019
+"343",77,"Mercedes",3,6,"Finished",18,2019
+"344",16,"Ferrari",4,1,"Finished",18,2019
+"345",23,"Red Bull Racing",5,5,"Finished",18,2019
+"346",33,"Red Bull Racing",6,4,"Finished",18,2019
+"347",11,"Racing Point",7,11,"Finished",18,2019
+"348",3,"Renault",8,13,"Finished",18,2019
+"349",10,"Toro Rosso",9,10,"+1 Lap",18,2019
+"350",27,"Renault",10,12,"+1 Lap",18,2019
+"351",26,"Toro Rosso",11,9,"+1 Lap",18,2019
+"352",18,"Racing Point",12,16,"+1 Lap",18,2019
+"353",55,"McLaren",13,7,"+1 Lap",18,2019
+"354",99,"Alfa Romeo Racing",14,15,"+1 Lap",18,2019
+"355",20,"Haas F1 Team",15,17,"+2 Laps",18,2019
+"356",63,"Williams",16,19,"+2 Laps",18,2019
+"357",8,"Haas F1 Team",17,18,"+2 Laps",18,2019
+"358",88,"Williams",18,20,"+2 Laps",18,2019
+"359",7,"Alfa Romeo Racing",19,14,"Overheating",18,2019
+"360",4,"McLaren",20,8,"Withdrew",18,2019
+"361",77,"Mercedes",1,1,"Finished",19,2019
+"362",44,"Mercedes",2,5,"Finished",19,2019
+"363",33,"Red Bull Racing",3,3,"Finished",19,2019
+"364",16,"Ferrari",4,4,"Finished",19,2019
+"365",23,"Red Bull Racing",5,6,"Finished",19,2019
+"366",3,"Renault",6,9,"Finished",19,2019
+"367",4,"McLaren",7,8,"Finished",19,2019
+"368",55,"McLaren",8,7,"+1 Lap",19,2019
+"369",27,"Renault",9,11,"+1 Lap",19,2019
+"370",11,"Racing Point",10,0,"+1 Lap",19,2019
+"371",7,"Alfa Romeo Racing",11,17,"+1 Lap",19,2019
+"372",26,"Toro Rosso",12,13,"+1 Lap",19,2019
+"373",18,"Racing Point",13,14,"+1 Lap",19,2019
+"374",99,"Alfa Romeo Racing",14,16,"+1 Lap",19,2019
+"375",8,"Haas F1 Team",15,15,"+1 Lap",19,2019
+"376",10,"Toro Rosso",16,10,"Suspension",19,2019
+"377",63,"Williams",17,18,"+2 Laps",19,2019
+"378",20,"Haas F1 Team",18,12,"Brakes",19,2019
+"379",88,"Williams",19,19,"Oil leak",19,2019
+"380",5,"Ferrari",20,2,"Suspension",19,2019
+"381",33,"Red Bull Racing",1,1,"Finished",20,2019
+"382",10,"Toro Rosso",2,6,"Finished",20,2019
+"383",55,"McLaren",3,20,"Finished",20,2019
+"384",7,"Alfa Romeo Racing",4,8,"Finished",20,2019
+"385",99,"Alfa Romeo Racing",5,12,"Finished",20,2019
+"386",3,"Renault",6,11,"Finished",20,2019
+"387",44,"Mercedes",7,3,"Finished",20,2019
+"388",4,"McLaren",8,10,"Finished",20,2019
+"389",11,"Racing Point",9,15,"Finished",20,2019
+"390",26,"Toro Rosso",10,16,"Finished",20,2019
+"391",20,"Haas F1 Team",11,9,"Finished",20,2019
+"392",63,"Williams",12,18,"Finished",20,2019
+"393",8,"Haas F1 Team",13,7,"Finished",20,2019
+"394",23,"Red Bull Racing",14,5,"Finished",20,2019
+"395",27,"Renault",15,13,"Finished",20,2019
+"396",88,"Williams",16,19,"+1 Lap",20,2019
+"397",5,"Ferrari",17,2,"Collision",20,2019
+"398",16,"Ferrari",18,14,"Collision",20,2019
+"399",18,"Racing Point",19,17,"Suspension",20,2019
+"400",77,"Mercedes",20,4,"Power Unit",20,2019
+"401",44,"Mercedes",1,1,"Finished",21,2019
+"402",33,"Red Bull Racing",2,2,"Finished",21,2019
+"403",16,"Ferrari",3,3,"Finished",21,2019
+"404",77,"Mercedes",4,20,"Finished",21,2019
+"405",5,"Ferrari",5,4,"Finished",21,2019
+"406",23,"Red Bull Racing",6,5,"Finished",21,2019
+"407",11,"Racing Point",7,10,"+1 Lap",21,2019
+"408",4,"McLaren",8,6,"+1 Lap",21,2019
+"409",26,"Toro Rosso",9,13,"+1 Lap",21,2019
+"410",55,"McLaren",10,8,"+1 Lap",21,2019
+"411",3,"Renault",11,7,"+1 Lap",21,2019
+"412",27,"Renault",12,9,"+1 Lap",21,2019
+"413",7,"Alfa Romeo Racing",13,17,"+1 Lap",21,2019
+"414",20,"Haas F1 Team",14,14,"+1 Lap",21,2019
+"415",8,"Haas F1 Team",15,15,"+1 Lap",21,2019
+"416",99,"Alfa Romeo Racing",16,16,"+1 Lap",21,2019
+"417",63,"Williams",17,18,"+1 Lap",21,2019
+"418",10,"Toro Rosso",18,11,"+2 Laps",21,2019
+"419",88,"Williams",19,19,"+2 Laps",21,2019
+"420",18,"Racing Point",20,12,"Brakes",21,2019
+"421",77,"Mercedes",1,1,"Finished",1,2020
+"422",16,"Ferrari",2,7,"Finished",1,2020
+"423",4,"McLaren",3,3,"Finished",1,2020
+"424",44,"Mercedes",4,5,"Finished",1,2020
+"425",55,"McLaren",5,8,"Finished",1,2020
+"426",11,"Racing Point",6,6,"Finished",1,2020
+"427",10,"AlphaTauri",7,12,"Finished",1,2020
+"428",31,"Renault",8,14,"Finished",1,2020
+"429",99,"Alfa Romeo Racing",9,18,"Finished",1,2020
+"430",5,"Ferrari",10,11,"Finished",1,2020
+"431",6,"Williams",11,20,"Finished",1,2020
+"432",26,"AlphaTauri",12,13,"Suspension",1,2020
+"433",23,"Red Bull Racing",13,4,"Electronics",1,2020
+"434",7,"Alfa Romeo Racing",14,19,"Wheel",1,2020
+"435",63,"Williams",15,17,"Fuel pressure",1,2020
+"436",8,"Haas F1 Team",16,15,"Brakes",1,2020
+"437",20,"Haas F1 Team",17,16,"Brakes",1,2020
+"438",18,"Racing Point",18,9,"Engine",1,2020
+"439",3,"Renault",19,10,"Overheating",1,2020
+"440",33,"Red Bull Racing",20,2,"Electronics",1,2020
+"441",44,"Mercedes",1,1,"Finished",3,2020
+"442",33,"Red Bull Racing",2,7,"Finished",3,2020
+"443",77,"Mercedes",3,2,"Finished",3,2020
+"444",18,"Racing Point",4,3,"Finished",3,2020
+"445",23,"Red Bull Racing",5,13,"Finished",3,2020
+"446",5,"Ferrari",6,5,"+1 Lap",3,2020
+"447",11,"Racing Point",7,4,"+1 Lap",3,2020
+"448",3,"Renault",8,11,"+1 Lap",3,2020
+"449",55,"McLaren",9,9,"+1 Lap",3,2020
+"450",20,"Haas F1 Team",10,0,"+1 Lap",3,2020
+"451",16,"Ferrari",11,6,"+1 Lap",3,2020
+"452",26,"AlphaTauri",12,17,"+1 Lap",3,2020
+"453",4,"McLaren",13,8,"+1 Lap",3,2020
+"454",7,"Alfa Romeo Racing",15,20,"+1 Lap",3,2020
+"455",8,"Haas F1 Team",16,0,"+1 Lap",3,2020
+"456",99,"Alfa Romeo Racing",17,19,"+1 Lap",3,2020
+"457",63,"Williams",18,12,"+1 Lap",3,2020
+"458",6,"Williams",19,15,"+5 Laps",3,2020
+"459",10,"AlphaTauri",20,10,"Engine",3,2020
+"460",44,"Mercedes",1,1,"Finished",4,2020
+"461",33,"Red Bull Racing",2,3,"Finished",4,2020
+"462",16,"Ferrari",3,4,"Finished",4,2020
+"463",3,"Renault",4,8,"Finished",4,2020
+"464",4,"McLaren",5,5,"Finished",4,2020
+"465",31,"Renault",6,9,"Finished",4,2020
+"466",10,"AlphaTauri",7,11,"Finished",4,2020
+"467",23,"Red Bull Racing",8,12,"Finished",4,2020
+"468",18,"Racing Point",9,6,"Finished",4,2020
+"469",5,"Ferrari",10,10,"Finished",4,2020
+"470",77,"Mercedes",11,2,"Finished",4,2020
+"471",63,"Williams",12,20,"Finished",4,2020
+"472",55,"McLaren",13,7,"Finished",4,2020
+"473",99,"Alfa Romeo Racing",14,15,"Finished",4,2020
+"474",6,"Williams",15,18,"Finished",4,2020
+"475",8,"Haas F1 Team",16,17,"Finished",4,2020
+"476",7,"Alfa Romeo Racing",17,16,"+1 Lap",4,2020
+"477",26,"AlphaTauri",18,19,"Accident",4,2020
+"478",20,"Haas F1 Team",19,14,"Collision",4,2020
+"479",27,"Racing Point",20,13,"Power Unit",4,2020
+"480",33,"Red Bull Racing",1,4,"Finished",5,2020
+"481",44,"Mercedes",2,2,"Finished",5,2020
+"482",77,"Mercedes",3,1,"Finished",5,2020
+"483",16,"Ferrari",4,8,"Finished",5,2020
+"484",23,"Red Bull Racing",5,9,"Finished",5,2020
+"485",18,"Racing Point",6,6,"Finished",5,2020
+"486",27,"Racing Point",7,3,"Finished",5,2020
+"487",31,"Renault",8,14,"Finished",5,2020
+"488",4,"McLaren",9,10,"Finished",5,2020
+"489",26,"AlphaTauri",10,16,"Finished",5,2020
+"490",10,"AlphaTauri",11,7,"Finished",5,2020
+"491",5,"Ferrari",12,11,"Finished",5,2020
+"492",55,"McLaren",13,12,"Finished",5,2020
+"493",3,"Renault",14,5,"+1 Lap",5,2020
+"494",7,"Alfa Romeo Racing",15,20,"+1 Lap",5,2020
+"495",8,"Haas F1 Team",16,13,"+1 Lap",5,2020
+"496",99,"Alfa Romeo Racing",17,19,"+1 Lap",5,2020
+"497",63,"Williams",18,15,"+1 Lap",5,2020
+"498",6,"Williams",19,18,"+1 Lap",5,2020
+"499",20,"Haas F1 Team",20,17,"Retired",5,2020
+"500",44,"Mercedes",1,1,"Finished",6,2020
+"501",33,"Red Bull Racing",2,3,"Finished",6,2020
+"502",77,"Mercedes",3,2,"Finished",6,2020
+"503",18,"Racing Point",4,5,"+1 Lap",6,2020
+"504",11,"Racing Point",5,4,"+1 Lap",6,2020
+"505",55,"McLaren",6,7,"+1 Lap",6,2020
+"506",5,"Ferrari",7,11,"+1 Lap",6,2020
+"507",23,"Red Bull Racing",8,6,"+1 Lap",6,2020
+"508",10,"AlphaTauri",9,10,"+1 Lap",6,2020
+"509",4,"McLaren",10,8,"+1 Lap",6,2020
+"510",3,"Renault",11,13,"+1 Lap",6,2020
+"511",26,"AlphaTauri",12,12,"+1 Lap",6,2020
+"512",31,"Renault",13,15,"+1 Lap",6,2020
+"513",7,"Alfa Romeo Racing",14,14,"+1 Lap",6,2020
+"514",20,"Haas F1 Team",15,16,"+1 Lap",6,2020
+"515",99,"Alfa Romeo Racing",16,20,"+1 Lap",6,2020
+"516",63,"Williams",17,18,"+1 Lap",6,2020
+"517",6,"Williams",18,19,"+2 Laps",6,2020
+"518",8,"Haas F1 Team",19,17,"+2 Laps",6,2020
+"519",16,"Ferrari",20,9,"Electronics",6,2020
+"520",44,"Mercedes",1,1,"Finished",7,2020
+"521",77,"Mercedes",2,2,"Finished",7,2020
+"522",33,"Red Bull Racing",3,3,"Finished",7,2020
+"523",3,"Renault",4,4,"Finished",7,2020
+"524",31,"Renault",5,6,"Finished",7,2020
+"525",23,"Red Bull Racing",6,5,"Finished",7,2020
+"526",4,"McLaren",7,10,"Finished",7,2020
+"527",10,"AlphaTauri",8,12,"Finished",7,2020
+"528",18,"Racing Point",9,9,"Finished",7,2020
+"529",11,"Racing Point",10,8,"Finished",7,2020
+"530",26,"AlphaTauri",11,11,"Finished",7,2020
+"531",7,"Alfa Romeo Racing",12,16,"Finished",7,2020
+"532",5,"Ferrari",13,14,"Finished",7,2020
+"533",16,"Ferrari",14,13,"Finished",7,2020
+"534",8,"Haas F1 Team",15,17,"Finished",7,2020
+"535",6,"Williams",16,19,"Finished",7,2020
+"536",20,"Haas F1 Team",17,20,"Finished",7,2020
+"537",99,"Alfa Romeo Racing",18,18,"Accident",7,2020
+"538",63,"Williams",19,15,"Debris",7,2020
+"539",55,"McLaren",20,7,"Exhaust",7,2020
+"540",10,"AlphaTauri",1,10,"Finished",8,2020
+"541",55,"McLaren",2,3,"Finished",8,2020
+"542",18,"Racing Point",3,8,"Finished",8,2020
+"543",4,"McLaren",4,6,"Finished",8,2020
+"544",77,"Mercedes",5,2,"Finished",8,2020
+"545",3,"Renault",6,7,"Finished",8,2020
+"546",44,"Mercedes",7,1,"Finished",8,2020
+"547",31,"Renault",8,12,"Finished",8,2020
+"548",26,"AlphaTauri",9,11,"Finished",8,2020
+"549",11,"Racing Point",10,4,"Finished",8,2020
+"550",6,"Williams",11,20,"Finished",8,2020
+"551",8,"Haas F1 Team",12,16,"Finished",8,2020
+"552",7,"Alfa Romeo Racing",13,14,"Finished",8,2020
+"553",63,"Williams",14,19,"Finished",8,2020
+"554",23,"Red Bull Racing",15,9,"Finished",8,2020
+"555",99,"Alfa Romeo Racing",16,18,"Finished",8,2020
+"556",33,"Red Bull Racing",17,5,"Power Unit",8,2020
+"557",16,"Ferrari",18,13,"Accident",8,2020
+"558",20,"Haas F1 Team",19,15,"Power Unit",8,2020
+"559",5,"Ferrari",20,17,"Brakes",8,2020
+"560",44,"Mercedes",1,1,"Finished",9,2020
+"561",77,"Mercedes",2,2,"Finished",9,2020
+"562",23,"Red Bull Racing",3,4,"Finished",9,2020
+"563",3,"Renault",4,8,"Finished",9,2020
+"564",11,"Racing Point",5,7,"Finished",9,2020
+"565",4,"McLaren",6,11,"Finished",9,2020
+"566",26,"AlphaTauri",7,12,"Finished",9,2020
+"567",16,"Ferrari",8,5,"Finished",9,2020
+"568",7,"Alfa Romeo Racing",9,13,"Finished",9,2020
+"569",5,"Ferrari",10,14,"Finished",9,2020
+"570",63,"Williams",11,18,"Finished",9,2020
+"571",8,"Haas F1 Team",12,15,"Finished",9,2020
+"572",18,"Racing Point",13,6,"Puncture",9,2020
+"573",31,"Renault",14,10,"Brakes",9,2020
+"574",6,"Williams",15,19,"Collision",9,2020
+"575",20,"Haas F1 Team",16,20,"Collision",9,2020
+"576",99,"Alfa Romeo Racing",17,17,"Collision",9,2020
+"577",55,"McLaren",18,9,"Collision",9,2020
+"578",33,"Red Bull Racing",19,3,"Collision",9,2020
+"579",10,"AlphaTauri",20,16,"Collision",9,2020
+"580",77,"Mercedes",1,3,"Finished",10,2020
+"581",33,"Red Bull Racing",2,2,"Finished",10,2020
+"582",44,"Mercedes",3,1,"Finished",10,2020
+"583",11,"Racing Point",4,4,"Finished",10,2020
+"584",3,"Renault",5,5,"Finished",10,2020
+"585",16,"Ferrari",6,10,"Finished",10,2020
+"586",31,"Renault",7,7,"Finished",10,2020
+"587",26,"AlphaTauri",8,11,"Finished",10,2020
+"588",10,"AlphaTauri",9,9,"Finished",10,2020
+"589",23,"Red Bull Racing",10,15,"Finished",10,2020
+"590",99,"Alfa Romeo Racing",11,17,"+1 Lap",10,2020
+"591",20,"Haas F1 Team",12,18,"+1 Lap",10,2020
+"592",5,"Ferrari",13,14,"+1 Lap",10,2020
+"593",7,"Alfa Romeo Racing",14,19,"+1 Lap",10,2020
+"594",4,"McLaren",15,8,"+1 Lap",10,2020
+"595",6,"Williams",16,20,"+1 Lap",10,2020
+"596",8,"Haas F1 Team",17,16,"+1 Lap",10,2020
+"597",63,"Williams",18,13,"+1 Lap",10,2020
+"598",55,"McLaren",19,6,"Accident",10,2020
+"599",18,"Racing Point",20,12,"Collision",10,2020
+"600",44,"Mercedes",1,2,"Finished",11,2020
+"601",33,"Red Bull Racing",2,3,"Finished",11,2020
+"602",3,"Renault",3,6,"Finished",11,2020
+"603",11,"Racing Point",4,9,"Finished",11,2020
+"604",55,"McLaren",5,10,"Finished",11,2020
+"605",10,"AlphaTauri",6,12,"Finished",11,2020
+"606",16,"Ferrari",7,4,"Finished",11,2020
+"607",27,"Racing Point",8,20,"Finished",11,2020
+"608",8,"Haas F1 Team",9,16,"Finished",11,2020
+"609",99,"Alfa Romeo Racing",10,14,"Finished",11,2020
+"610",5,"Ferrari",11,11,"Finished",11,2020
+"611",7,"Alfa Romeo Racing",12,19,"Finished",11,2020
+"612",20,"Haas F1 Team",13,15,"Finished",11,2020
+"613",6,"Williams",14,18,"Finished",11,2020
+"614",26,"AlphaTauri",15,13,"Finished",11,2020
+"615",4,"McLaren",16,8,"Power Unit",11,2020
+"616",23,"Red Bull Racing",17,5,"Radiator",11,2020
+"617",31,"Renault",18,7,"Gearbox",11,2020
+"618",77,"Mercedes",19,1,"Power Unit",11,2020
+"619",63,"Williams",20,17,"Collision",11,2020
+"620",44,"Mercedes",1,1,"Finished",12,2020
+"621",77,"Mercedes",2,2,"Finished",12,2020
+"622",33,"Red Bull Racing",3,3,"Finished",12,2020
+"623",16,"Ferrari",4,4,"Finished",12,2020
+"624",10,"AlphaTauri",5,9,"+1 Lap",12,2020
+"625",55,"McLaren",6,7,"+1 Lap",12,2020
+"626",11,"Racing Point",7,5,"+1 Lap",12,2020
+"627",31,"Renault",8,11,"+1 Lap",12,2020
+"628",3,"Renault",9,10,"+1 Lap",12,2020
+"629",5,"Ferrari",10,15,"+1 Lap",12,2020
+"630",7,"Alfa Romeo Racing",11,16,"+1 Lap",12,2020
+"631",23,"Red Bull Racing",12,6,"+1 Lap",12,2020
+"632",4,"McLaren",13,8,"+1 Lap",12,2020
+"633",63,"Williams",14,14,"+1 Lap",12,2020
+"634",99,"Alfa Romeo Racing",15,17,"+1 Lap",12,2020
+"635",20,"Haas F1 Team",16,19,"+1 Lap",12,2020
+"636",8,"Haas F1 Team",17,18,"+1 Lap",12,2020
+"637",6,"Williams",18,20,"+2 Laps",12,2020
+"638",26,"AlphaTauri",19,13,"+2 Laps",12,2020
+"639",18,"Racing Point",20,12,"Collision damage",12,2020
+"640",44,"Mercedes",1,2,"Finished",13,2020
+"641",77,"Mercedes",2,1,"Finished",13,2020
+"642",3,"Renault",3,5,"Finished",13,2020
+"643",26,"AlphaTauri",4,8,"Finished",13,2020
+"644",16,"Ferrari",5,7,"Finished",13,2020
+"645",11,"Racing Point",6,11,"Finished",13,2020
+"646",55,"McLaren",7,10,"Finished",13,2020
+"647",4,"McLaren",8,9,"Finished",13,2020
+"648",7,"Alfa Romeo Racing",9,18,"Finished",13,2020
+"649",99,"Alfa Romeo Racing",10,20,"Finished",13,2020
+"650",6,"Williams",11,19,"Finished",13,2020
+"651",5,"Ferrari",12,14,"Finished",13,2020
+"652",18,"Racing Point",13,15,"Finished",13,2020
+"653",8,"Haas F1 Team",14,16,"Finished",13,2020
+"654",23,"Red Bull Racing",15,6,"Finished",13,2020
+"655",63,"Williams",16,13,"Accident",13,2020
+"656",33,"Red Bull Racing",17,3,"Puncture",13,2020
+"657",20,"Haas F1 Team",18,17,"Illness",13,2020
+"658",31,"Renault",19,12,"Gearbox",13,2020
+"659",10,"AlphaTauri",20,4,"Water pressure",13,2020
+"660",44,"Mercedes",1,6,"Finished",14,2020
+"661",11,"Racing Point",2,3,"Finished",14,2020
+"662",5,"Ferrari",3,11,"Finished",14,2020
+"663",16,"Ferrari",4,12,"Finished",14,2020
+"664",55,"McLaren",5,15,"Finished",14,2020
+"665",33,"Red Bull Racing",6,2,"Finished",14,2020
+"666",23,"Red Bull Racing",7,4,"Finished",14,2020
+"667",4,"McLaren",8,14,"Finished",14,2020
+"668",18,"Racing Point",9,1,"Finished",14,2020
+"669",3,"Renault",10,5,"Finished",14,2020
+"670",31,"Renault",11,7,"+1 Lap",14,2020
+"671",26,"AlphaTauri",12,16,"+1 Lap",14,2020
+"672",10,"AlphaTauri",13,19,"+1 Lap",14,2020
+"673",77,"Mercedes",14,9,"+1 Lap",14,2020
+"674",7,"Alfa Romeo Racing",15,8,"+1 Lap",14,2020
+"675",63,"Williams",16,0,"+1 Lap",14,2020
+"676",20,"Haas F1 Team",17,13,"Withdrew",14,2020
+"677",8,"Haas F1 Team",18,17,"Collision damage",14,2020
+"678",6,"Williams",19,0,"Collision damage",14,2020
+"679",99,"Alfa Romeo Racing",20,10,"Gearbox",14,2020
+"680",44,"Mercedes",1,1,"Finished",15,2020
+"681",33,"Red Bull Racing",2,3,"Finished",15,2020
+"682",23,"Red Bull Racing",3,4,"Finished",15,2020
+"683",4,"McLaren",4,9,"Finished",15,2020
+"684",55,"McLaren",5,15,"Finished",15,2020
+"685",10,"AlphaTauri",6,8,"Finished",15,2020
+"686",3,"Renault",7,6,"Finished",15,2020
+"687",77,"Mercedes",8,2,"Finished",15,2020
+"688",31,"Renault",9,7,"Finished",15,2020
+"689",16,"Ferrari",10,12,"+1 Lap",15,2020
+"690",26,"AlphaTauri",11,10,"+1 Lap",15,2020
+"691",63,"Williams",12,14,"+1 Lap",15,2020
+"692",5,"Ferrari",13,11,"+1 Lap",15,2020
+"693",6,"Williams",14,20,"+1 Lap",15,2020
+"694",7,"Alfa Romeo Racing",15,17,"+1 Lap",15,2020
+"695",99,"Alfa Romeo Racing",16,16,"+1 Lap",15,2020
+"696",20,"Haas F1 Team",17,18,"+1 Lap",15,2020
+"697",11,"Racing Point",18,5,"Engine",15,2020
+"698",18,"Racing Point",19,13,"Collision",15,2020
+"699",8,"Haas F1 Team",20,19,"Collision",15,2020
+"700",11,"Racing Point",1,5,"Finished",16,2020
+"701",31,"Renault",2,11,"Finished",16,2020
+"702",18,"Racing Point",3,10,"Finished",16,2020
+"703",55,"McLaren",4,8,"Finished",16,2020
+"704",3,"Renault",5,7,"Finished",16,2020
+"705",23,"Red Bull Racing",6,12,"Finished",16,2020
+"706",26,"AlphaTauri",7,6,"Finished",16,2020
+"707",77,"Mercedes",8,1,"Finished",16,2020
+"708",63,"Mercedes",9,2,"Finished",16,2020
+"709",4,"McLaren",10,19,"Finished",16,2020
+"710",10,"AlphaTauri",11,9,"Finished",16,2020
+"711",5,"Ferrari",12,13,"Finished",16,2020
+"712",99,"Alfa Romeo Racing",13,14,"Finished",16,2020
+"713",7,"Alfa Romeo Racing",14,18,"Finished",16,2020
+"714",20,"Haas F1 Team",15,15,"Finished",16,2020
+"715",89,"Williams",16,17,"Finished",16,2020
+"716",51,"Haas F1 Team",17,20,"Finished",16,2020
+"717",6,"Williams",18,16,"Engine",16,2020
+"718",33,"Red Bull Racing",19,3,"Accident",16,2020
+"719",16,"Ferrari",20,4,"Collision",16,2020
+"720",33,"Red Bull Racing",1,1,"Finished",17,2020
+"721",77,"Mercedes",2,2,"Finished",17,2020
+"722",44,"Mercedes",3,3,"Finished",17,2020
+"723",23,"Red Bull Racing",4,5,"Finished",17,2020
+"724",4,"McLaren",5,4,"Finished",17,2020
+"725",55,"McLaren",6,6,"Finished",17,2020
+"726",3,"Renault",7,11,"Finished",17,2020
+"727",10,"AlphaTauri",8,9,"Finished",17,2020
+"728",31,"Renault",9,10,"Finished",17,2020
+"729",18,"Racing Point",10,8,"Finished",17,2020
+"730",26,"AlphaTauri",11,7,"+1 Lap",17,2020
+"731",7,"Alfa Romeo Racing",12,15,"+1 Lap",17,2020
+"732",16,"Ferrari",13,12,"+1 Lap",17,2020
+"733",5,"Ferrari",14,13,"+1 Lap",17,2020
+"734",63,"Williams",15,16,"+1 Lap",17,2020
+"735",99,"Alfa Romeo Racing",16,14,"+1 Lap",17,2020
+"736",6,"Williams",17,18,"+1 Lap",17,2020
+"737",20,"Haas F1 Team",18,20,"+1 Lap",17,2020
+"738",51,"Haas F1 Team",19,17,"+2 Laps",17,2020
+"739",11,"Racing Point",20,19,"Transmission",17,2020
+"740",44,"Mercedes",1,2,"Finished",1,2021
+"741",33,"Red Bull Racing",2,1,"Finished",1,2021
+"742",77,"Mercedes",3,3,"Finished",1,2021
+"743",4,"McLaren",4,7,"Finished",1,2021
+"744",11,"Red Bull Racing",5,0,"Finished",1,2021
+"745",16,"Ferrari",6,4,"Finished",1,2021
+"746",3,"McLaren",7,6,"Finished",1,2021
+"747",55,"Ferrari",8,8,"Finished",1,2021
+"748",22,"AlphaTauri",9,13,"Finished",1,2021
+"749",18,"Aston Martin",10,10,"Finished",1,2021
+"750",7,"Alfa Romeo Racing",11,14,"Finished",1,2021
+"751",99,"Alfa Romeo Racing",12,12,"+1 Lap",1,2021
+"752",31,"Alpine",13,16,"+1 Lap",1,2021
+"753",63,"Williams",14,15,"+1 Lap",1,2021
+"754",5,"Aston Martin",15,20,"+1 Lap",1,2021
+"755",47,"Haas F1 Team",16,18,"+1 Lap",1,2021
+"756",10,"AlphaTauri",17,5,"Retired",1,2021
+"757",6,"Williams",18,17,"Retired",1,2021
+"758",14,"Alpine",19,9,"Brakes",1,2021
+"759",9,"Haas F1 Team",20,19,"Accident",1,2021
+"760",33,"Red Bull Racing",1,3,"Finished",2,2021
+"761",44,"Mercedes",2,1,"Finished",2,2021
+"762",4,"McLaren",3,7,"Finished",2,2021
+"763",16,"Ferrari",4,4,"Finished",2,2021
+"764",55,"Ferrari",5,11,"Finished",2,2021
+"765",3,"McLaren",6,6,"Finished",2,2021
+"766",10,"AlphaTauri",7,5,"Finished",2,2021
+"767",18,"Aston Martin",8,10,"Finished",2,2021
+"768",31,"Alpine",9,9,"Finished",2,2021
+"769",14,"Alpine",10,15,"Finished",2,2021
+"770",11,"Red Bull Racing",11,2,"Finished",2,2021
+"771",22,"AlphaTauri",12,20,"Finished",2,2021
+"772",7,"Alfa Romeo Racing",13,16,"Finished",2,2021
+"773",99,"Alfa Romeo Racing",14,17,"+1 Lap",2,2021
+"774",5,"Aston Martin",15,0,"Gearbox",2,2021
+"775",47,"Haas F1 Team",16,18,"+2 Laps",2,2021
+"776",9,"Haas F1 Team",17,19,"+2 Laps",2,2021
+"777",77,"Mercedes",18,8,"Collision",2,2021
+"778",63,"Williams",19,12,"Collision",2,2021
+"779",6,"Williams",20,14,"Collision",2,2021
+"780",44,"Mercedes",1,2,"Finished",3,2021
+"781",33,"Red Bull Racing",2,3,"Finished",3,2021
+"782",77,"Mercedes",3,1,"Finished",3,2021
+"783",11,"Red Bull Racing",4,4,"Finished",3,2021
+"784",4,"McLaren",5,7,"Finished",3,2021
+"785",16,"Ferrari",6,8,"Finished",3,2021
+"786",31,"Alpine",7,6,"Finished",3,2021
+"787",14,"Alpine",8,13,"Finished",3,2021
+"788",3,"McLaren",9,16,"Finished",3,2021
+"789",10,"AlphaTauri",10,9,"Finished",3,2021
+"790",55,"Ferrari",11,5,"Finished",3,2021
+"791",99,"Alfa Romeo Racing",12,12,"+1 Lap",3,2021
+"792",5,"Aston Martin",13,10,"+1 Lap",3,2021
+"793",18,"Aston Martin",14,17,"+1 Lap",3,2021
+"794",22,"AlphaTauri",15,14,"+1 Lap",3,2021
+"795",63,"Williams",16,11,"+1 Lap",3,2021
+"796",47,"Haas F1 Team",17,19,"+2 Laps",3,2021
+"797",6,"Williams",18,18,"+2 Laps",3,2021
+"798",9,"Haas F1 Team",19,20,"+2 Laps",3,2021
+"799",7,"Alfa Romeo Racing",20,15,"Collision damage",3,2021
+"800",44,"Mercedes",1,1,"Finished",4,2021
+"801",33,"Red Bull Racing",2,2,"Finished",4,2021
+"802",77,"Mercedes",3,3,"Finished",4,2021
+"803",16,"Ferrari",4,4,"Finished",4,2021
+"804",11,"Red Bull Racing",5,8,"Finished",4,2021
+"805",3,"McLaren",6,7,"Finished",4,2021
+"806",55,"Ferrari",7,6,"Finished",4,2021
+"807",4,"McLaren",8,9,"+1 Lap",4,2021
+"808",31,"Alpine",9,5,"+1 Lap",4,2021
+"809",10,"AlphaTauri",10,12,"+1 Lap",4,2021
+"810",18,"Aston Martin",11,11,"+1 Lap",4,2021
+"811",7,"Alfa Romeo Racing",12,17,"+1 Lap",4,2021
+"812",5,"Aston Martin",13,13,"+1 Lap",4,2021
+"813",63,"Williams",14,15,"+1 Lap",4,2021
+"814",99,"Alfa Romeo Racing",15,14,"+1 Lap",4,2021
+"815",6,"Williams",16,19,"+1 Lap",4,2021
+"816",14,"Alpine",17,10,"+1 Lap",4,2021
+"817",47,"Haas F1 Team",18,18,"+2 Laps",4,2021
+"818",9,"Haas F1 Team",19,20,"+2 Laps",4,2021
+"819",22,"AlphaTauri",20,16,"Electrical",4,2021
+"820",33,"Red Bull Racing",1,2,"Finished",5,2021
+"821",55,"Ferrari",2,4,"Finished",5,2021
+"822",4,"McLaren",3,5,"Finished",5,2021
+"823",11,"Red Bull Racing",4,9,"Finished",5,2021
+"824",5,"Aston Martin",5,8,"Finished",5,2021
+"825",10,"AlphaTauri",6,6,"Finished",5,2021
+"826",44,"Mercedes",7,7,"Finished",5,2021
+"827",18,"Aston Martin",8,13,"+1 Lap",5,2021
+"828",31,"Alpine",9,11,"+1 Lap",5,2021
+"829",99,"Alfa Romeo Racing",10,10,"+1 Lap",5,2021
+"830",7,"Alfa Romeo Racing",11,14,"+1 Lap",5,2021
+"831",3,"McLaren",12,12,"+1 Lap",5,2021
+"832",14,"Alpine",13,17,"+1 Lap",5,2021
+"833",63,"Williams",14,15,"+1 Lap",5,2021
+"834",6,"Williams",15,18,"+1 Lap",5,2021
+"835",22,"AlphaTauri",16,16,"+1 Lap",5,2021
+"836",9,"Haas F1 Team",17,19,"+3 Laps",5,2021
+"837",47,"Haas F1 Team",18,20,"+3 Laps",5,2021
+"838",77,"Mercedes",19,3,"Wheel nut",5,2021
+"839",16,"Ferrari",20,1,"Driveshaft",5,2021
+"840",11,"Red Bull Racing",1,6,"Finished",6,2021
+"841",5,"Aston Martin",2,11,"Finished",6,2021
+"842",10,"AlphaTauri",3,4,"Finished",6,2021
+"843",16,"Ferrari",4,1,"Finished",6,2021
+"844",4,"McLaren",5,9,"Finished",6,2021
+"845",14,"Alpine",6,8,"Finished",6,2021
+"846",22,"AlphaTauri",7,7,"Finished",6,2021
+"847",55,"Ferrari",8,5,"Finished",6,2021
+"848",3,"McLaren",9,13,"Finished",6,2021
+"849",7,"Alfa Romeo Racing",10,14,"Finished",6,2021
+"850",99,"Alfa Romeo Racing",11,20,"Finished",6,2021
+"851",77,"Mercedes",12,10,"Finished",6,2021
+"852",47,"Haas F1 Team",13,17,"Finished",6,2021
+"853",9,"Haas F1 Team",14,18,"Finished",6,2021
+"854",44,"Mercedes",15,2,"Finished",6,2021
+"855",6,"Williams",16,16,"Finished",6,2021
+"856",63,"Williams",17,15,"Gearbox",6,2021
+"857",33,"Red Bull Racing",18,3,"Accident",6,2021
+"858",18,"Aston Martin",19,19,"Accident",6,2021
+"859",31,"Alpine",20,12,"Turbo",6,2021
+"860",33,"Red Bull Racing",1,1,"Finished",7,2021
+"861",44,"Mercedes",2,2,"Finished",7,2021
+"862",11,"Red Bull Racing",3,4,"Finished",7,2021
+"863",77,"Mercedes",4,3,"Finished",7,2021
+"864",4,"McLaren",5,8,"Finished",7,2021
+"865",3,"McLaren",6,10,"Finished",7,2021
+"866",10,"AlphaTauri",7,6,"Finished",7,2021
+"867",14,"Alpine",8,9,"Finished",7,2021
+"868",5,"Aston Martin",9,12,"Finished",7,2021
+"869",18,"Aston Martin",10,19,"Finished",7,2021
+"870",55,"Ferrari",11,5,"Finished",7,2021
+"871",63,"Williams",12,14,"+1 Lap",7,2021
+"872",22,"AlphaTauri",13,0,"+1 Lap",7,2021
+"873",31,"Alpine",14,11,"+1 Lap",7,2021
+"874",99,"Alfa Romeo Racing",15,13,"+1 Lap",7,2021
+"875",16,"Ferrari",16,7,"+1 Lap",7,2021
+"876",7,"Alfa Romeo Racing",17,17,"+1 Lap",7,2021
+"877",6,"Williams",18,16,"+1 Lap",7,2021
+"878",47,"Haas F1 Team",19,15,"+1 Lap",7,2021
+"879",9,"Haas F1 Team",20,18,"+1 Lap",7,2021
+"880",33,"Red Bull Racing",1,1,"Finished",8,2021
+"881",44,"Mercedes",2,2,"Finished",8,2021
+"882",77,"Mercedes",3,5,"Finished",8,2021
+"883",11,"Red Bull Racing",4,4,"Finished",8,2021
+"884",4,"McLaren",5,3,"+1 Lap",8,2021
+"885",55,"Ferrari",6,12,"+1 Lap",8,2021
+"886",16,"Ferrari",7,7,"+1 Lap",8,2021
+"887",18,"Aston Martin",8,9,"+1 Lap",8,2021
+"888",14,"Alpine",9,8,"+1 Lap",8,2021
+"889",22,"AlphaTauri",10,11,"+1 Lap",8,2021
+"890",7,"Alfa Romeo Racing",11,18,"+1 Lap",8,2021
+"891",5,"Aston Martin",12,14,"+1 Lap",8,2021
+"892",3,"McLaren",13,13,"+1 Lap",8,2021
+"893",31,"Alpine",14,17,"+1 Lap",8,2021
+"894",99,"Alfa Romeo Racing",15,15,"+1 Lap",8,2021
+"895",47,"Haas F1 Team",16,19,"+2 Laps",8,2021
+"896",6,"Williams",17,16,"+3 Laps",8,2021
+"897",9,"Haas F1 Team",18,20,"+3 Laps",8,2021
+"898",63,"Williams",19,10,"Engine",8,2021
+"899",10,"AlphaTauri",20,6,"Collision",8,2021
+"900",33,"Red Bull Racing",1,1,"Finished",9,2021
+"901",77,"Mercedes",2,5,"Finished",9,2021
+"902",4,"McLaren",3,2,"Finished",9,2021
+"903",44,"Mercedes",4,4,"Finished",9,2021
+"904",55,"Ferrari",5,10,"Finished",9,2021
+"905",11,"Red Bull Racing",6,3,"Finished",9,2021
+"906",3,"McLaren",7,13,"Finished",9,2021
+"907",16,"Ferrari",8,12,"Finished",9,2021
+"908",10,"AlphaTauri",9,6,"Finished",9,2021
+"909",14,"Alpine",10,14,"+1 Lap",9,2021
+"910",63,"Williams",11,8,"+1 Lap",9,2021
+"911",22,"AlphaTauri",12,7,"+1 Lap",9,2021
+"912",18,"Aston Martin",13,9,"+1 Lap",9,2021
+"913",99,"Alfa Romeo Racing",14,15,"+1 Lap",9,2021
+"914",7,"Alfa Romeo Racing",15,16,"+1 Lap",9,2021
+"915",6,"Williams",16,18,"+1 Lap",9,2021
+"916",5,"Aston Martin",17,11,"Collision",9,2021
+"917",47,"Haas F1 Team",18,19,"+2 Laps",9,2021
+"918",9,"Haas F1 Team",19,20,"+2 Laps",9,2021
+"919",31,"Alpine",20,17,"Collision",9,2021
+"920",44,"Mercedes",1,2,"Finished",10,2021
+"921",16,"Ferrari",2,4,"Finished",10,2021
+"922",77,"Mercedes",3,3,"Finished",10,2021
+"923",4,"McLaren",4,5,"Finished",10,2021
+"924",3,"McLaren",5,6,"Finished",10,2021
+"925",55,"Ferrari",6,10,"Finished",10,2021
+"926",14,"Alpine",7,7,"Finished",10,2021
+"927",18,"Aston Martin",8,14,"Finished",10,2021
+"928",31,"Alpine",9,9,"Finished",10,2021
+"929",22,"AlphaTauri",10,16,"Finished",10,2021
+"930",10,"AlphaTauri",11,11,"Finished",10,2021
+"931",63,"Williams",12,12,"+1 Lap",10,2021
+"932",99,"Alfa Romeo Racing",13,15,"+1 Lap",10,2021
+"933",6,"Williams",14,17,"+1 Lap",10,2021
+"934",7,"Alfa Romeo Racing",15,13,"+1 Lap",10,2021
+"935",11,"Red Bull Racing",16,0,"+1 Lap",10,2021
+"936",9,"Haas F1 Team",17,19,"+1 Lap",10,2021
+"937",47,"Haas F1 Team",18,18,"+1 Lap",10,2021
+"938",5,"Aston Martin",19,8,"Retired",10,2021
+"939",33,"Red Bull Racing",20,1,"Collision",10,2021
+"940",31,"Alpine",1,8,"Finished",11,2021
+"941",44,"Mercedes",2,1,"Finished",11,2021
+"942",55,"Ferrari",3,15,"Finished",11,2021
+"943",14,"Alpine",4,9,"Finished",11,2021
+"944",10,"AlphaTauri",5,5,"Finished",11,2021
+"945",22,"AlphaTauri",6,16,"Finished",11,2021
+"946",6,"Williams",7,18,"Finished",11,2021
+"947",63,"Williams",8,17,"Finished",11,2021
+"948",33,"Red Bull Racing",9,3,"Finished",11,2021
+"949",7,"Alfa Romeo Racing",10,13,"+1 Lap",11,2021
+"950",3,"McLaren",11,11,"+1 Lap",11,2021
+"951",47,"Haas F1 Team",12,20,"+1 Lap",11,2021
+"952",99,"Alfa Romeo Racing",13,0,"+1 Lap",11,2021
+"953",9,"Haas F1 Team",14,19,"Collision",11,2021
+"954",4,"McLaren",15,6,"Collision",11,2021
+"955",77,"Mercedes",16,2,"Collision",11,2021
+"956",11,"Red Bull Racing",17,4,"Collision",11,2021
+"957",16,"Ferrari",18,7,"Collision",11,2021
+"958",18,"Aston Martin",19,12,"Collision",11,2021
+"959",5,"Aston Martin",20,10,"Disqualified",11,2021
+"960",33,"Red Bull Racing",1,1,"Finished",12,2021
+"961",63,"Williams",2,2,"Finished",12,2021
+"962",44,"Mercedes",3,3,"Finished",12,2021
+"963",3,"McLaren",4,4,"Finished",12,2021
+"964",5,"Aston Martin",5,5,"Finished",12,2021
+"965",10,"AlphaTauri",6,6,"Finished",12,2021
+"966",31,"Alpine",7,8,"Finished",12,2021
+"967",16,"Ferrari",8,9,"Finished",12,2021
+"968",6,"Williams",9,10,"Finished",12,2021
+"969",55,"Ferrari",10,11,"Finished",12,2021
+"970",14,"Alpine",11,12,"Finished",12,2021
+"971",77,"Mercedes",12,13,"Finished",12,2021
+"972",99,"Alfa Romeo Racing",13,14,"Finished",12,2021
+"973",4,"McLaren",14,15,"Finished",12,2021
+"974",22,"AlphaTauri",15,16,"Finished",12,2021
+"975",47,"Haas F1 Team",16,17,"Finished",12,2021
+"976",9,"Haas F1 Team",17,18,"Finished",12,2021
+"977",7,"Alfa Romeo Racing",18,0,"Finished",12,2021
+"978",11,"Red Bull Racing",19,0,"Finished",12,2021
+"979",18,"Aston Martin",20,19,"Finished",12,2021
+"980",33,"Red Bull Racing",1,1,"Finished",13,2021
+"981",44,"Mercedes",2,2,"Finished",13,2021
+"982",77,"Mercedes",3,3,"Finished",13,2021
+"983",10,"AlphaTauri",4,4,"+1 Lap",13,2021
+"984",16,"Ferrari",5,5,"+1 Lap",13,2021
+"985",14,"Alpine",6,9,"+1 Lap",13,2021
+"986",55,"Ferrari",7,6,"+1 Lap",13,2021
+"987",11,"Red Bull Racing",8,0,"+1 Lap",13,2021
+"988",31,"Alpine",9,8,"+1 Lap",13,2021
+"989",4,"McLaren",10,13,"+1 Lap",13,2021
+"990",3,"McLaren",11,10,"+1 Lap",13,2021
+"991",18,"Aston Martin",12,12,"+2 Laps",13,2021
+"992",5,"Aston Martin",13,15,"+2 Laps",13,2021
+"993",99,"Alfa Romeo Racing",14,7,"+2 Laps",13,2021
+"994",88,"Alfa Romeo Racing",15,16,"+2 Laps",13,2021
+"995",6,"Williams",16,0,"+2 Laps",13,2021
+"996",63,"Williams",17,11,"Gearbox",13,2021
+"997",47,"Haas F1 Team",18,17,"+3 Laps",13,2021
+"998",22,"AlphaTauri",19,14,"Power Unit",13,2021
+"999",9,"Haas F1 Team",20,18,"Hydraulics",13,2021
+"1000",3,"McLaren",1,2,"Finished",14,2021
+"1001",4,"McLaren",2,3,"Finished",14,2021
+"1002",77,"Mercedes",3,19,"Finished",14,2021
+"1003",16,"Ferrari",4,5,"Finished",14,2021
+"1004",11,"Red Bull Racing",5,8,"Finished",14,2021
+"1005",55,"Ferrari",6,6,"Finished",14,2021
+"1006",18,"Aston Martin",7,9,"Finished",14,2021
+"1007",14,"Alpine",8,10,"Finished",14,2021
+"1008",63,"Williams",9,14,"Finished",14,2021
+"1009",31,"Alpine",10,12,"Finished",14,2021
+"1010",6,"Williams",11,13,"Finished",14,2021
+"1011",5,"Aston Martin",12,11,"Finished",14,2021
+"1012",99,"Alfa Romeo Racing",13,7,"Finished",14,2021
+"1013",88,"Alfa Romeo Racing",14,17,"Finished",14,2021
+"1014",47,"Haas F1 Team",15,18,"Finished",14,2021
+"1015",9,"Haas F1 Team",16,16,"Power Unit",14,2021
+"1016",44,"Mercedes",17,4,"Collision",14,2021
+"1017",33,"Red Bull Racing",18,1,"Collision",14,2021
+"1018",10,"AlphaTauri",19,0,"Suspension",14,2021
+"1019",22,"AlphaTauri",20,0,"Brakes",14,2021
+"1020",44,"Mercedes",1,4,"Finished",15,2021
+"1021",33,"Red Bull Racing",2,20,"Finished",15,2021
+"1022",55,"Ferrari",3,2,"Finished",15,2021
+"1023",3,"McLaren",4,5,"Finished",15,2021
+"1024",77,"Mercedes",5,16,"Finished",15,2021
+"1025",14,"Alpine",6,6,"Finished",15,2021
+"1026",4,"McLaren",7,1,"Finished",15,2021
+"1027",7,"Alfa Romeo Racing",8,13,"Finished",15,2021
+"1028",11,"Red Bull Racing",9,8,"Finished",15,2021
+"1029",63,"Williams",10,3,"Finished",15,2021
+"1030",18,"Aston Martin",11,7,"Finished",15,2021
+"1031",5,"Aston Martin",12,10,"+1 Lap",15,2021
+"1032",10,"AlphaTauri",13,11,"+1 Lap",15,2021
+"1033",31,"Alpine",14,9,"+1 Lap",15,2021
+"1034",16,"Ferrari",15,19,"+1 Lap",15,2021
+"1035",99,"Alfa Romeo Racing",16,17,"+1 Lap",15,2021
+"1036",22,"AlphaTauri",17,12,"+1 Lap",15,2021
+"1037",9,"Haas F1 Team",18,15,"+2 Laps",15,2021
+"1038",6,"Williams",19,18,"Accident",15,2021
+"1039",47,"Haas F1 Team",20,14,"Oil leak",15,2021
+"1040",77,"Mercedes",1,1,"Finished",16,2021
+"1041",33,"Red Bull Racing",2,2,"Finished",16,2021
+"1042",11,"Red Bull Racing",3,6,"Finished",16,2021
+"1043",16,"Ferrari",4,3,"Finished",16,2021
+"1044",44,"Mercedes",5,11,"Finished",16,2021
+"1045",10,"AlphaTauri",6,4,"Finished",16,2021
+"1046",4,"McLaren",7,7,"Finished",16,2021
+"1047",55,"Ferrari",8,19,"Finished",16,2021
+"1048",18,"Aston Martin",9,8,"Finished",16,2021
+"1049",31,"Alpine",10,12,"+1 Lap",16,2021
+"1050",99,"Alfa Romeo Racing",11,16,"+1 Lap",16,2021
+"1051",7,"Alfa Romeo Racing",12,17,"+1 Lap",16,2021
+"1052",3,"McLaren",13,20,"+1 Lap",16,2021
+"1053",22,"AlphaTauri",14,9,"+1 Lap",16,2021
+"1054",63,"Williams",15,13,"+1 Lap",16,2021
+"1055",14,"Alpine",16,5,"+1 Lap",16,2021
+"1056",6,"Williams",17,15,"+1 Lap",16,2021
+"1057",5,"Aston Martin",18,10,"+1 Lap",16,2021
+"1058",47,"Haas F1 Team",19,14,"+2 Laps",16,2021
+"1059",9,"Haas F1 Team",20,18,"+2 Laps",16,2021
+"1060",33,"Red Bull Racing",1,1,"Finished",17,2021
+"1061",44,"Mercedes",2,2,"Finished",17,2021
+"1062",11,"Red Bull Racing",3,3,"Finished",17,2021
+"1063",16,"Ferrari",4,4,"Finished",17,2021
+"1064",3,"McLaren",5,6,"Finished",17,2021
+"1065",77,"Mercedes",6,9,"Finished",17,2021
+"1066",55,"Ferrari",7,5,"Finished",17,2021
+"1067",4,"McLaren",8,7,"Finished",17,2021
+"1068",22,"AlphaTauri",9,10,"+1 Lap",17,2021
+"1069",5,"Aston Martin",10,18,"+1 Lap",17,2021
+"1070",99,"Alfa Romeo Racing",11,12,"+1 Lap",17,2021
+"1071",18,"Aston Martin",12,13,"+1 Lap",17,2021
+"1072",7,"Alfa Romeo Racing",13,15,"+1 Lap",17,2021
+"1073",63,"Williams",14,20,"+1 Lap",17,2021
+"1074",6,"Williams",15,14,"+1 Lap",17,2021
+"1075",47,"Haas F1 Team",16,16,"+2 Laps",17,2021
+"1076",9,"Haas F1 Team",17,17,"+2 Laps",17,2021
+"1077",14,"Alpine",18,19,"Rear wing",17,2021
+"1078",31,"Alpine",19,11,"Mechanical",17,2021
+"1079",10,"AlphaTauri",20,8,"Suspension",17,2021
+"1080",33,"Red Bull Racing",1,3,"Finished",18,2021
+"1081",44,"Mercedes",2,2,"Finished",18,2021
+"1082",11,"Red Bull Racing",3,4,"Finished",18,2021
+"1083",10,"AlphaTauri",4,5,"Finished",18,2021
+"1084",16,"Ferrari",5,8,"Finished",18,2021
+"1085",55,"Ferrari",6,6,"+1 Lap",18,2021
+"1086",5,"Aston Martin",7,9,"+1 Lap",18,2021
+"1087",7,"Alfa Romeo Racing",8,10,"+1 Lap",18,2021
+"1088",14,"Alpine",9,12,"+1 Lap",18,2021
+"1089",4,"McLaren",10,18,"+1 Lap",18,2021
+"1090",99,"Alfa Romeo Racing",11,11,"+1 Lap",18,2021
+"1091",3,"McLaren",12,7,"+1 Lap",18,2021
+"1092",31,"Alpine",13,19,"+1 Lap",18,2021
+"1093",18,"Aston Martin",14,20,"+2 Laps",18,2021
+"1094",77,"Mercedes",15,1,"+2 Laps",18,2021
+"1095",63,"Williams",16,16,"+2 Laps",18,2021
+"1096",6,"Williams",17,13,"+2 Laps",18,2021
+"1097",9,"Haas F1 Team",18,15,"+3 Laps",18,2021
+"1098",47,"Haas F1 Team",19,14,"Collision",18,2021
+"1099",22,"AlphaTauri",20,17,"Collision",18,2021
+"1100",44,"Mercedes",1,10,"Finished",19,2021
+"1101",33,"Red Bull Racing",2,2,"Finished",19,2021
+"1102",77,"Mercedes",3,1,"Finished",19,2021
+"1103",11,"Red Bull Racing",4,4,"Finished",19,2021
+"1104",16,"Ferrari",5,6,"Finished",19,2021
+"1105",55,"Ferrari",6,3,"Finished",19,2021
+"1106",10,"AlphaTauri",7,7,"+1 Lap",19,2021
+"1107",31,"Alpine",8,8,"+1 Lap",19,2021
+"1108",14,"Alpine",9,12,"+1 Lap",19,2021
+"1109",4,"McLaren",10,5,"+1 Lap",19,2021
+"1110",5,"Aston Martin",11,9,"+1 Lap",19,2021
+"1111",7,"Alfa Romeo Racing",12,0,"+1 Lap",19,2021
+"1112",63,"Williams",13,17,"+1 Lap",19,2021
+"1113",99,"Alfa Romeo Racing",14,13,"+1 Lap",19,2021
+"1114",22,"AlphaTauri",15,15,"+1 Lap",19,2021
+"1115",6,"Williams",16,16,"+1 Lap",19,2021
+"1116",9,"Haas F1 Team",17,19,"+2 Laps",19,2021
+"1117",47,"Haas F1 Team",18,18,"+2 Laps",19,2021
+"1118",3,"McLaren",19,11,"Power loss",19,2021
+"1119",18,"Aston Martin",20,14,"Collision damage",19,2021
+"1120",44,"Mercedes",1,1,"Finished",20,2021
+"1121",33,"Red Bull Racing",2,7,"Finished",20,2021
+"1122",14,"Alpine",3,3,"Finished",20,2021
+"1123",11,"Red Bull Racing",4,11,"Finished",20,2021
+"1124",31,"Alpine",5,9,"Finished",20,2021
+"1125",18,"Aston Martin",6,12,"Finished",20,2021
+"1126",55,"Ferrari",7,5,"Finished",20,2021
+"1127",16,"Ferrari",8,13,"Finished",20,2021
+"1128",4,"McLaren",9,4,"+1 Lap",20,2021
+"1129",5,"Aston Martin",10,10,"+1 Lap",20,2021
+"1130",10,"AlphaTauri",11,2,"+1 Lap",20,2021
+"1131",3,"McLaren",12,14,"+1 Lap",20,2021
+"1132",22,"AlphaTauri",13,8,"+1 Lap",20,2021
+"1133",7,"Alfa Romeo Racing",14,16,"+1 Lap",20,2021
+"1134",99,"Alfa Romeo Racing",15,18,"+1 Lap",20,2021
+"1135",47,"Haas F1 Team",16,19,"+1 Lap",20,2021
+"1136",63,"Williams",17,15,"+2 Laps",20,2021
+"1137",9,"Haas F1 Team",18,20,"+2 Laps",20,2021
+"1138",6,"Williams",19,17,"Puncture",20,2021
+"1139",77,"Mercedes",20,6,"Damage",20,2021
+"1140",44,"Mercedes",1,1,"Finished",21,2021
+"1141",33,"Red Bull Racing",2,3,"Finished",21,2021
+"1142",77,"Mercedes",3,2,"Finished",21,2021
+"1143",31,"Alpine",4,9,"Finished",21,2021
+"1144",3,"McLaren",5,11,"Finished",21,2021
+"1145",10,"AlphaTauri",6,6,"Finished",21,2021
+"1146",16,"Ferrari",7,4,"Finished",21,2021
+"1147",55,"Ferrari",8,15,"Finished",21,2021
+"1148",99,"Alfa Romeo Racing",9,10,"Finished",21,2021
+"1149",4,"McLaren",10,7,"Finished",21,2021
+"1150",18,"Aston Martin",11,18,"Finished",21,2021
+"1151",6,"Williams",12,16,"Finished",21,2021
+"1152",14,"Alpine",13,13,"+1 Lap",21,2021
+"1153",22,"AlphaTauri",14,8,"+1 Lap",21,2021
+"1154",7,"Alfa Romeo Racing",15,12,"+1 Lap",21,2021
+"1155",5,"Aston Martin",16,17,"Collision damage",21,2021
+"1156",11,"Red Bull Racing",17,5,"Collision",21,2021
+"1157",9,"Haas F1 Team",18,20,"Collision",21,2021
+"1158",63,"Williams",19,14,"Collision",21,2021
+"1159",47,"Haas F1 Team",20,19,"Accident",21,2021
+"1160",33,"Red Bull Racing",1,1,"Finished",22,2021
+"1161",44,"Mercedes",2,2,"Finished",22,2021
+"1162",55,"Ferrari",3,5,"Finished",22,2021
+"1163",22,"AlphaTauri",4,8,"Finished",22,2021
+"1164",10,"AlphaTauri",5,12,"Finished",22,2021
+"1165",77,"Mercedes",6,6,"Finished",22,2021
+"1166",4,"McLaren",7,3,"Finished",22,2021
+"1167",14,"Alpine",8,11,"Finished",22,2021
+"1168",31,"Alpine",9,9,"Finished",22,2021
+"1169",16,"Ferrari",10,7,"Finished",22,2021
+"1170",5,"Aston Martin",11,15,"Finished",22,2021
+"1171",3,"McLaren",12,10,"+1 Lap",22,2021
+"1172",18,"Aston Martin",13,13,"+1 Lap",22,2021
+"1173",47,"Haas F1 Team",14,19,"+1 Lap",22,2021
+"1174",11,"Red Bull Racing",15,4,"Engine",22,2021
+"1175",6,"Williams",16,16,"Accident",22,2021
+"1176",99,"Alfa Romeo Racing",17,14,"Gearbox",22,2021
+"1177",63,"Williams",18,17,"Gearbox",22,2021
+"1178",7,"Alfa Romeo Racing",19,18,"Brakes",22,2021
